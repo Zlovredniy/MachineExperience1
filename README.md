@@ -1,2 +1,2 @@
 # MachineExperience1
-SalamBalabexa
+Машинное обучение и как то там ещё...
